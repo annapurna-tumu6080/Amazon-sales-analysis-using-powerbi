@@ -18,7 +18,7 @@ The Amazon Sales Analysis Dashboard provides a comprehensive view of sales perfo
 
 This dashboard was built using the following tools and technologies:
 
-•⇛Power BI Desktop – For dashboard creation and interactive visualizations
+•Power BI Desktop – For dashboard creation and interactive visualizations
 
 •Power Query – For data cleaning, transformation, and shaping
 
