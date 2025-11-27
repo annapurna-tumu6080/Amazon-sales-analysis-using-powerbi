@@ -1,9 +1,10 @@
 # Amazon-sales-analysis-using-powerbi
-summary:
+
+**summary:**
 
 I built an interactive Amazon Product Sales Analysis dashboard using Power BI, performing data cleaning, modeling, and creating DAX measures for KPIs.The report includes category-wise revenue, top products, monthly trends, and geographic insights to help understand sales performance and business growth.
 
-📊 Amazon Sales Analysis Dashboard
+📊 **Amazon Sales Analysis Dashboard**
 1. Project Title :
 
 🛒 Amazon Analytics: Product Sales Insights Dashboard
@@ -17,29 +18,29 @@ The Amazon Sales Analysis Dashboard provides a comprehensive view of sales perfo
 
 This dashboard was built using the following tools and technologies:
 
-Power BI Desktop – For dashboard creation and interactive visualizations
+•⇛Power BI Desktop – For dashboard creation and interactive visualizations
 
-Power Query – For data cleaning, transformation, and shaping
+•Power Query – For data cleaning, transformation, and shaping
 
-DAX (Data Analysis Expressions) – For calculated measures, KPIs, and logic
+•DAX (Data Analysis Expressions) – For calculated measures, KPIs, and logic
 
-Data Modeling – Establishing relationships among Sales, Products, Category & Customers tables
+•Data Modeling – Establishing relationships among Sales, Products, Category & Customers tables
 
-Excel / CSV Dataset – Source data used for building the report
+•Excel / CSV Dataset – Source data used for building the report
 
 4. Key Features
 
 📌 KPI Cards: Total Sales, Total Profit, Units Sold, Average Rating
 
-📊 Category-wise Analysis: Revenue distribution across product categories
+•📊 Category-wise Analysis: Revenue distribution across product categories
 
-🏆 Top-Selling Products: Best performers by revenue and quantity
+•🏆 Top-Selling Products: Best performers by revenue and quantity
 
-🌍 Geographical Insights: Customer location-based sales map
+•🌍 Geographical Insights: Customer location-based sales map
 
-📅 Monthly Trend Analysis: Seasonality and sales growth patterns
+•📅 Monthly Trend Analysis: Seasonality and sales growth patterns
 
-🔍 Interactive Filters: Category, seller, location, date, product
+•🔍 Interactive Filters: Category, seller, location, date, product
 
 5. DAX Measures Used
 
